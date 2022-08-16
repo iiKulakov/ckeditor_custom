@@ -7,7 +7,7 @@
  import Autoformat from '@ckeditor/ckeditor5-autoformat/src/autoformat.js';
  import AutoImage from '@ckeditor/ckeditor5-image/src/autoimage.js';
  import Base64UploadAdapter from '@ckeditor/ckeditor5-upload/src/adapters/base64uploadadapter.js';
-//  import SimpleUploadAdapter from '@ckeditor/ckeditor5-upload/src/adapters/simpleuploadadapter';
+ import SimpleUploadAdapter from '@ckeditor/ckeditor5-upload/src/adapters/simpleuploadadapter';
  import BlockQuote from '@ckeditor/ckeditor5-block-quote/src/blockquote.js';
  import Bold from '@ckeditor/ckeditor5-basic-styles/src/bold.js';
  import CloudServices from '@ckeditor/ckeditor5-cloud-services/src/cloudservices.js';
@@ -46,7 +46,7 @@
 	 Autoformat,
 	 AutoImage,
 	 Base64UploadAdapter,
-// 	 SimpleUploadAdapter,
+	 SimpleUploadAdapter,
 	 BlockQuote,
 	 Bold,
 	 CloudServices,
