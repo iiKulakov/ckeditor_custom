@@ -1,1 +1,0 @@
-!function(a){const n=a.ms=a.ms||{};n.dictionary=Object.assign(n.dictionary||{},{"%0 of %1":"%0 daripada %1",Cancel:"Batal","Remove color":"Buang warna","Remove Format":"Buang Format","Restore default":"Pulihkan lalai",Save:"Simpan","Show more items":"Tunjukkan item lain"}),n.getPluralForm=function(a){return 0}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
