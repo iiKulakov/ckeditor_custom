@@ -79,7 +79,7 @@ Editor.builtinPlugins = [
   // TableCellProperties,
   Underline,
   Strikethrough,
-  RemoveFormat,
+  // RemoveFormat,
 ];
 
 export default Editor;
