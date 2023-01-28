@@ -28,7 +28,7 @@
     "@ckeditor/ckeditor5-theme-lark": "^29.2.0",
     "@ckeditor/ckeditor5-typing": "^29.2.0",
     "@ckeditor/ckeditor5-upload": "^29.2.0",
-    "@ckeditor/ckeditor5-remove-format": "^36.0.0",
+    "@ckeditor/ckeditor5-remove-format": "29.2.0",
     "css-loader": "^5.2.7",
     "postcss": "^8.3.6",
     "postcss-loader": "^4.3.0",
