@@ -1,0 +1,1 @@
+!function(o){const e=o.ur=o.ur||{};e.dictionary=Object.assign(e.dictionary||{},{"%0 of %1":"0% میں سے 1%",Cancel:"منسوخ","Remove color":"رنگ حذف کریں","Remove Format":"فارمیٹ ہٹائیں","Restore default":"طے شدہ بحال",Save:"محفوظ","Show more items":"مزید مواد کی نمائش کریں"}),e.getPluralForm=function(o){return 1!=o}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

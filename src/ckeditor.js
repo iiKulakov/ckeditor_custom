@@ -38,6 +38,7 @@ import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar.js';
 import TextTransformation from '@ckeditor/ckeditor5-typing/src/texttransformation.js';
 import Underline from '@ckeditor/ckeditor5-basic-styles/src/underline.js';
 import Strikethrough from '@ckeditor/ckeditor5-basic-styles/src/strikethrough.js';
+import RemoveFormat from '@ckeditor/ckeditor5-remove-format/src/removeformat';
 
 class Editor extends DecoupledDocumentEditor {}
 
@@ -78,6 +79,7 @@ Editor.builtinPlugins = [
   TableCellProperties,
   Underline,
   Strikethrough,
+  RemoveFormat,
 ];
 
 export default Editor;

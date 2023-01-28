@@ -1,0 +1,1 @@
+!function(o){const a=o.uz=o.uz||{};a.dictionary=Object.assign(a.dictionary||{},{"%0 of %1":"",Cancel:"Bekor qilish","Remove color":"Rangni olib tashlash","Remove Format":"Formatlashni olib tashlash","Restore default":"",Save:"Saqlash","Show more items":""}),a.getPluralForm=function(o){return 0}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
